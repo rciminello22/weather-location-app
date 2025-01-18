@@ -1,2 +1,4 @@
 # weather-location-app
-Aplicación para mostrar la información del clima según la localidad ingresada.
+Weather app project that fetches and displays weather for a given location.
+
+https://roadmap.sh/projects/weather-app
